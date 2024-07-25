@@ -14,3 +14,5 @@ This repository contains the Verilog implementation of a single-cycle RISC-V pro
 - **PC Adder**: Computes the next address of the instruction.
 - **Register File**: Contains the processor's registers.
 - **RISC V Top**: Top-level module that integrates all components to form the single-cycle processor.
+
+![image](https://github.com/user-attachments/assets/cab1b75b-1ed4-4d3d-826a-fcc206644501)
