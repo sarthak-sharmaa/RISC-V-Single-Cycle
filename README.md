@@ -15,4 +15,5 @@ This repository contains the Verilog implementation of a single-cycle RISC-V pro
 - **Register File**: Contains the processor's registers.
 - **RISC V Top**: Top-level module that integrates all components to form the single-cycle processor.
 
-![image](https://github.com/user-attachments/assets/cab1b75b-1ed4-4d3d-826a-fcc206644501)
+![image](https://github.com/user-attachments/assets/fdcae9c2-3197-4e18-a115-2b8a624c5216)
+
